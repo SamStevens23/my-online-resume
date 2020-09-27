@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Quicksand', sans-serif;
-    background: #bc89b4;
+    background: #9fb3ff;
     color: whitesmoke;
     font-size: 1.1em;
     line-height: 1.5;
@@ -31,7 +31,6 @@ p {
 }
 
 
-
 .image {
     position: absolute;
     background: #333 url("img6.jpg");
@@ -54,7 +53,7 @@ p {
 }
 
 .section1 {
-    background: #d1b4bc;
+    background: #d7d6ff;
     color: whitesmoke;
     padding-bottom: 2em;
 }
@@ -116,7 +115,7 @@ p {
     padding: 0;
     width: 100%;
     align-items: center;
-    box-shadow: 5px 10px #bc89b4;
+    box-shadow: 5px 10px 5px 5px#d7d6ff;
 }
 
 .section2 li {
@@ -134,11 +133,11 @@ p {
 }
 
 .card {
-    background: #d1b4bc;
+    background: #d7d6ff;
     margin: 1em;
     align-items: center;
     border-radius: 5px;
-    box-shadow: 5px 10px 10px #995b82;
+    box-shadow: 5px 10px 10px #4e93ff;
 
 }
 
@@ -157,13 +156,13 @@ p {
 
 footer {
     padding: 2em;
-    background: #d1b4bc;
+    background: #d7d6ff;
     text-align: center;
     font-size: 1em;
 }
 
 footer a {
-    color: #bc89b4;
+    color: #9fb3ff;
     text-decoration: none;
 }
 
@@ -179,7 +178,7 @@ footer a {
 
    .section1 .content-text {
     columns: 2;
-    column-gap: 2em;
+    column-gap: 3em;
 }
 
 .section1 .content-text p {
