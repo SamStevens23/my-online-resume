@@ -108,6 +108,7 @@ p {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    padding-bottom: 70px;
 }
 
 
@@ -141,7 +142,8 @@ p {
     margin: 1em;
     align-items: center;
     border-radius: 5px;
-    box-shadow: 5px 10px 10px  #6b0f1a;
+    box-shadow: 5px 10px 20px 3px #997a8d;
+    ;
     ;
 
 }
